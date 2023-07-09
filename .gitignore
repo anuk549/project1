@@ -1,0 +1,40 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / MonoDevelop generated
+/*.booproj
+/*.pidb
+/*.suo
+/*.user
+/*.userprefs
+/*.unityproj
+/*.dll
+/*.exe
+/*.pdb
+
+# Unity3D generated meta files
+*.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+/build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# JetBrains Rider
+.idea/
+
+# Rider for Unreal Engine (if using Rider as UE4 IDE)
+/.idea/
+/.ide/
